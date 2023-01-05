@@ -1,0 +1,15 @@
+package newpackage;
+import somename.*;
+
+import packages.*;
+
+public class Packages {
+
+    public static void main(String[] args) {
+        // TODO code application logic here
+        
+        somename obj = new somename();
+        obj.method();
+    }
+
+}
