@@ -3,7 +3,7 @@ package classesandobjectsextended;
 public class LocalClassExample {
 
     void methodOuter() {
-        int x = 10;
+        final int x = 10;
         
         class LocalClass {
 

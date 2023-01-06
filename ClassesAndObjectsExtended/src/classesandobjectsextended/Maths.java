@@ -22,6 +22,6 @@ public class Maths {
     }
 
     int addition(int x, int y, int z) {
-        return (x + y);
+        return (x + y + z);
     }
 }
